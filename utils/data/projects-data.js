@@ -78,7 +78,7 @@ export const projectsData = [
         id: 8,
         name: 'Solar System Selling App',
         description: "Developed a Solar System Selling App to facilitate the purchase and installation of solar systems. The app, built with React Native, Express, and Node.js, allows users to browse available solar systems, request quotes, and schedule installations. Integrated Tailwind CSS for a modern and responsive UI, with user authentication and admin functionalities for managing products and orders. The app aims to promote renewable energy solutions and simplify the process of adopting solar power",
-        tools: ['React-Native', 'Tailwind CSS', '', 'Express', 'Node.js'],
+        tools: ['React-Native', 'Tailwind CSS', 'Appwrite', 'Express', 'Node.js'],
         code: '',
         demo: '',
         image: ayla,
