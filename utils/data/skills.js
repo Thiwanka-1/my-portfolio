@@ -4,6 +4,7 @@ export const skillsData = [
   'Javascript',
   'Typescript',
   'Kubernetes',
+  '.Net',
   'React',
   'Tailwind',
   'MongoDB',

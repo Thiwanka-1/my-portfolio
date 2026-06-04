@@ -74,6 +74,7 @@ import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
 import nodejs from '/public/svg/skills/nodejs.svg'
 import kubernetes from '/public/svg/skills/kubernetes.svg';
+import dotnet from '/public/svg/skills/dotnet.svg';
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -84,6 +85,8 @@ export const skillsImage = (skill) => {
       return nodejs;
     case 'kubernetes':
       return kubernetes;
+    case '.net':
+      return dotnet;
     case 'html':
       return html;
     case 'photoshop':
