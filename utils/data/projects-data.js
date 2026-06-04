@@ -7,7 +7,7 @@ export const projectsData = [
 
     {
         id: 2,
-        name: 'EduMentor - AI StudyBuddy Platform',
+        name: 'EduMentor - GenAI Based Education Platform',
         description: "Collaborated within a 4-member research team to architect a comprehensive educational platform driven by an AI Studybuddy agent, Adaptive Reinforcement Engine, Multi-Explanation Generator, and an AI Avatar Mentor. Engineered a custom Retrieval-Augmented Generation (RAG) pipeline to ingest and algorithmically chunk text into 900-character blocks with 200-character overlaps for optimized vector embeddings. Architected background sentiment analysis engines to continuously track student mood and motivation. Deployed locally hosted Ollama models exclusively across all AI functional components to ensure system security and data privacy, actively eliminating any reliance on external API keys.",
         tools: ['React', 'Node JS', 'Python', 'Ollama', 'RAG', 'Vector Embeddings', 'Hugging Face', 'TensorFlow', 'Google Colab'],
         role: 'Full-Stack AI Developer / Researcher',
