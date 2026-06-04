@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Assistent Web Developer',
     company: "Dedigama Group Private Ltd.",
-    duration: "(Dec 2024 - Present)"
+    duration: "(Dec 2024 - June 2025)"
   },
   {
     id: 2,
