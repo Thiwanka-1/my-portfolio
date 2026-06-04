@@ -28,7 +28,7 @@ export const projectsData = [
     {
         id: 4,
         name: 'Smart Presentation Management System',
-        description: "Developed a MERN-based system to schedule university presentations efficiently using a smart suggestion feature that avoids conflicts with lectures, venues, and examiner availability.[cite: 1] Included role-based access, real-time validation, and a responsive Tailwind CSS UI.[cite: 1]",
+        description: "Developed a MERN-based system to schedule university presentations efficiently using a smart suggestion feature that avoids conflicts with lectures, venues, and examiner availability. Included role-based access, real-time validation, and a responsive Tailwind CSS UI.",
         tools: ['MongoDB', 'Express', 'React', 'Node JS', 'Tailwind CSS', 'JavaScript'],
         role: 'Full-Stack Developer',
         code: '',
@@ -38,7 +38,7 @@ export const projectsData = [
     {
         id: 5,
         name: 'Culinary Skill Sharing Platform',
-        description: "Designed and developed a full-stack cooking skill-sharing platform with features like recipe uploads, video sharing, article browsing, user authentication, and modern UI/UX.[cite: 1] Users can easily upload comprehensive cooking tutorials, photos, and dynamic media to share their specific skills.",
+        description: "Designed and developed a full-stack cooking skill-sharing platform with features like recipe uploads, video sharing, article browsing, user authentication, and modern UI/UX.  Users can easily upload comprehensive cooking tutorials, photos, and dynamic media to share their specific skills.",
         tools: ['React', 'Tailwind CSS', 'Spring Boot', 'Hibernate', 'MySQL'],
         role: 'Full-Stack Developer',
         code: '',
@@ -48,7 +48,7 @@ export const projectsData = [
     {
         id: 6,
         name: 'Cloud-Native Food Ordering System',
-        description: "Built a microservices-based food delivery app using Docker and Kubernetes.[cite: 1] Implemented real-time order tracking with Socket.IO, integrated Stripe for payments, Google Maps API for live location tracking, and Twilio for SMS notifications.[cite: 1]",
+        description: "Built a microservices-based food delivery app using Docker and Kubernetes.  Implemented real-time order tracking with Socket.IO, integrated Stripe for payments, Google Maps API for live location tracking, and Twilio for SMS notifications. ",
         tools: ['MERN Stack', 'Docker', 'Kubernetes', 'Socket.IO', 'Stripe', 'Google Maps API', 'Twilio'],
         role: 'Full-Stack Cloud Developer',
         code: '',
@@ -58,7 +58,7 @@ export const projectsData = [
     {
         id: 7,
         name: 'Executive Appointment Management System',
-        description: "Built a MERN-based appointment scheduling system with conflict resolution logic to manage employee bookings.[cite: 1] Specifically tailored for the CEO to facilitate precise, non-overlapping timeslot bookings for external clients and internal stakeholders. Included real-time validations, dynamic slot management, and a responsive Tailwind CSS interface tailored for executive-level use.[cite: 1]",
+        description: "Built a MERN-based appointment scheduling system with conflict resolution logic to manage employee bookings. Specifically tailored for the CEO to facilitate precise, non-overlapping timeslot bookings for external clients and internal stakeholders. Included real-time validations, dynamic slot management, and a responsive Tailwind CSS interface tailored for executive-level use.",
         tools: ['MongoDB', 'Express', 'React', 'Node JS', 'Tailwind CSS', 'JavaScript'],
         role: 'Full-Stack Developer',
         code: '',
